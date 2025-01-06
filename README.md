@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LKucera1994
 - 👀 I’m interested in learning about Software Development 
-- 🌱 I’m currently learning C# and the .Net 6 Framework
+- 🌱 I’m currently learning C#, Angular  and the .Net Framework
 - 💞️ I’m looking to collaborate on creating Mobile/Desktop/Web-based Apps 
 - 📫 How to reach me lukaskucera94@yahoo.de
 
